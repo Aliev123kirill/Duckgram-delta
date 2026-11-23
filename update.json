@@ -1,0 +1,17 @@
+{
+    "version":  "1.0.27-test",
+    "assets":  [
+                   {
+                       "url":  "https://raw.githubusercontent.com/Aliev123kirill/Duckgram-delta/main/test/duckgram-update-test.zip",
+                       "arch":  "x64",
+                       "kind":  "zip",
+                       "platform":  "win32",
+                       "size":  410,
+                       "name":  "duckgram-update-test.zip",
+                       "sha256":  "bb58698bfa32e966e4ea4d88dbb7fc2cebdfe645b95a55068a12bbddfe6f0483",
+                       "test":  true,
+                       "scope":  "app"
+                   }
+               ],
+    "notes":  "Тестовое обновление Duckgram. Проверка автообновления из GitHub: скачивание, SHA-256 и установка app-scope zip с перезапуском."
+}
